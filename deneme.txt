@@ -13,4 +13,5 @@ git push remote a dosyaları gönderir
 master branch
 git push remote a dosyaları gönderir.
 emre branch deneme
+master branch 2. ekleme
 
