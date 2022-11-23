@@ -1,0 +1,12 @@
+deneme1
+deneme2
+deneme3
+git init
+git add .
+git commit -m
+git checkout hashcode .
+git reset hard --hashcode
+git branch isim
+git merge master
+git checkout isim branchler arası geçer
+git push remote a dosyaları gönderir
