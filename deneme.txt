@@ -9,4 +9,5 @@ git reset hard --hashcode
 git branch isim
 git merge master
 git checkout isim branchler arası geçer
-git push remote a dosyaları gönderir
+git push remote a dosyaları gönderir.
+emre branch deneme
