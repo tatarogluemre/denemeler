@@ -10,3 +10,4 @@ git branch isim
 git merge master
 git checkout isim branchler arası geçer
 git push remote a dosyaları gönderir
+master branch
