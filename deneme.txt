@@ -11,3 +11,6 @@ git merge master
 git checkout isim branchler arası geçer
 git push remote a dosyaları gönderir
 master branch
+git push remote a dosyaları gönderir.
+emre branch deneme
+
